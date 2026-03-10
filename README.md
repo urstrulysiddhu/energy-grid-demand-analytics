@@ -24,10 +24,6 @@ View the interactive dashboard here:
 
 [Tableau Dashboard Link](https://public.tableau.com/views/EnergyGridLoadMonitoringDemandAnalyticsDashboard/EnergyGridDemandAnalyticsDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## Dashboard Preview
-
-![Energy Dashboard](energy_dashboard_preview.png)
-
 ## Dataset
 
 Energy demand dataset sourced from Kaggle.
